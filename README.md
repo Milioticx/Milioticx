@@ -1,16 +1,27 @@
-## Hi there 👋
+Hi, I'm Sriansu 👋
 
-<!--
-**Milioticx/Milioticx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Engineering Student
+🔌 Embedded Systems & Robotics Enthusiast
 
-Here are some ideas to get you started:
+🚀 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Line Follower Robot
+- Robo Race Bot
+- AQI Monitoring Device (ESP32 + Sensors)
+
+🛠 Tech Stack
+
+- ESP32
+- C / C++
+- Python
+- Linux (Ubuntu)
+
+🌱 Currently Learning
+
+- Machine Learning
+- Data Analysis with Python
+- Git & GitHub
+
+⚡ Interests
+
+Robotics, Embedded Systems, IoT, and Machine Learning
