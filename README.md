@@ -5,9 +5,12 @@ Hi, I'm Sriansu 👋
 
 🚀 Projects
 
+-Emergency SOS Device (ESP32 + Iridium Satellite Module)
+Built a satellite-based SOS device capable
+of sending emergency alerts from remote areas without cellular network.
 - Line Follower Robot
 - Robo Race Bot
-- AQI Monitoring Device (ESP32 + Sensors)
+
 
 🛠 Tech Stack
 
